@@ -6,5 +6,7 @@
             "email": "kiyanitsadenis@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.16"
+    }
 }
