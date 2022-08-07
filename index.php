@@ -1,3 +1,7 @@
 <?php
 
-echo "Hello, are you Hexlet?\n";
+require_once __DIR__ . '/vendor/autoload.php';
+
+use Hexlet\Php\Runner;
+
+print_r(Runner\run());
